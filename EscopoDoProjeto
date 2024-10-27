@@ -1,0 +1,14 @@
+Escopo do Projeto: Aplicativo de Gestão de Esporte
+Tema e Objetivo
+O aplicativo será uma ferramenta voltada para gestão esportiva, focada em auxiliar treinadores e atletas na organização de atividades, como treinos e competições, e na comunicação entre membros da equipe.
+Principais Funcionalidades
+Agenda de Atividades: Lista de treinos e competições, com detalhes de data, local e participantes.
+Gestão de Equipe: Função para adicionar, remover e ver informações dos membros.
+Estatísticas e Desempenho: Exibição de dados e gráficos de rendimento da equipe ou atletas.
+Notificações: Envio de alertas sobre novas atividades.
+Telas e Navegação
+Tela de Login/Perfil: Acesso inicial e perfil do usuário.
+Tela de Agenda: Visão dos treinos e competições com navegação em abas.
+Tela de Gestão de Equipes: Menu lateral para ver membros, estatísticas e mensagens.
+Público-Alvo e Objetivo
+Para treinadores, atletas e organizadores esportivos, o aplicativo busca melhorar a organização de eventos e o acompanhamento de desempenho, ajudando nas tomadas de decisão em tempo real.
